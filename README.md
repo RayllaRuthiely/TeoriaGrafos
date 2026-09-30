@@ -86,4 +86,4 @@ Ao final da atividade, espera-se compreender como a escolha da representação d
 
 - Raylla Ruthiely Gomes Santana | https://github.com/RayllaRuthiely
 - Nariann Tolentino Sena | https://github.com/narianntolentino-create
-- Jhully Stephane Marinho Napoliao | ***********
+- Jhully Stephane Marinho Napoliao | https://github.com/ju-stephane
